@@ -8,9 +8,9 @@ Agenda telefônica implementada em linguagem C, na matéria de Pesquisa e ordena
 
 O intuito deste trabalho foi exercitar os conhecimentos adquiridos na diciplina durante o semestre:
 
-* Algoritmos de ordenação de dados
+* Algoritmos busca e ordenação de dados
 * Buscar dados de forma eficiente
 * Manipulação de arquivos em disco
 
-Aluno: Mateus de Lima
+Aluno: Mateus de Lima   
 Prof: Andressa Sebben
